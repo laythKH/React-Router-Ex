@@ -1,0 +1,32 @@
+.landing-page {
+   display: flex;
+   justify-content: center;
+   height: calc(100vh - 85px);
+}
+
+.landing-page .container {
+   display: flex;
+   justify-content: space-between;
+}
+
+.landing-page .intro-words {
+   display: flex;
+   justify-content: center;
+   flex-direction: column;
+   margin-top: -50px;
+   font-family: 'Open Sans', sans-serif;
+}
+
+.intro-words .title {
+   font-size: 35px;
+   margin-bottom: 5px;
+}
+
+.intro-words .paragraph {
+   font-size: 20px;
+   letter-spacing: 1.1px;
+}
+
+.landing-page img {
+   width: 50%;
+}
