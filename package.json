@@ -1,7 +1,7 @@
 {
   "name": "react-router-example",
   "version": "0.1.0",
-  "homepage": "https://laythKH.github.io/react-route-example",
+  "homepage": "https://laythKH.github.io/React-Router-Ex",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
